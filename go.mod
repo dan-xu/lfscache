@@ -1,7 +1,7 @@
 module github.com/saracen/lfscache
 
 require (
-	git.code.oa.com/git-lfs/git-lfs v2.8.0 // indirect
+	git.code.oa.com/git-lfs/git-lfs v2.5.2+incompatible
 	github.com/git-lfs/git-lfs v2.5.2+incompatible
 	github.com/go-kit/kit v0.7.0
 	github.com/go-logfmt/logfmt v0.3.0 // indirect
